@@ -18,6 +18,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     ]
     
     func applicationDidFinishLaunching(_ aNotification: Notification) {
+        if let data = "applicationDidFinishLaunching called\n".data(using: .utf8), let handle = FileHandle(forWritingAtPath: "/tmp/voiceinput_launch.log") { handle.seekToEndOfFile(); handle.write(data); handle.closeFile() }
+        
         // Request permissions
         SFSpeechRecognizer.requestAuthorization { authStatus in }
         
@@ -34,9 +36,10 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     }
     
     func setupMenu() {
-        statusItem = NSStatusBar.system.statusItem(withLength: NSStatusItem.squareLength)
+        statusItem = NSStatusBar.system.statusItem(withLength: NSStatusItem.variableLength)
         if let button = statusItem.button {
             button.image = NSImage(systemSymbolName: "mic", accessibilityDescription: "Voice Input")
+            button.title = "🎙️"
         }
         
         let menu = NSMenu()

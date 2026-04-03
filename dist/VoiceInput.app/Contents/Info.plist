@@ -12,6 +12,10 @@
 	<string>1</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
 	<key>LSUIElement</key>
 	<true/>
 	<key>NSSpeechRecognitionUsageDescription</key>
