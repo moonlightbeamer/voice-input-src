@@ -9,7 +9,7 @@ class SpeechRecognizer {
     var onTranscriptionUpdate: ((String, Bool) -> Void)?
     
     func start() {
-        let languageCode = UserDefaults.standard.string(forKey: "SelectedLanguage") ?? "zh-CN"
+        let languageCode = UserDefaults.standard.string(forKey: "SelectedLanguage") ?? "en-US"
         recognizer = SFSpeechRecognizer(locale: Locale(identifier: languageCode))
         
         guard let recognizer = recognizer, recognizer.isAvailable else {

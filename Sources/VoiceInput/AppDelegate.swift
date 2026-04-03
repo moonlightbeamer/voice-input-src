@@ -46,7 +46,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         
         // Language Menu
         let langMenu = NSMenu()
-        let currentLang = UserDefaults.standard.string(forKey: defaultLanguageKey) ?? "zh-CN"
+        let currentLang = UserDefaults.standard.string(forKey: defaultLanguageKey) ?? "en-US"
         
         for (code, name) in languageOptions {
             let item = NSMenuItem(title: name, action: #selector(selectLanguage(_:)), keyEquivalent: "")
