@@ -1,0 +1,67 @@
+{
+  "": {
+    "dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/VoiceInput.d",
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/VoiceInput.o",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/master.swiftdeps"
+  },
+  "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/Sources/VoiceInput/AppDelegate.swift": {
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/AppDelegate.dia"
+  },
+  "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/Sources/VoiceInput/AudioEngine.swift": {
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/AudioEngine.swift.o",
+    "swiftmodule": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/AudioEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/AudioEngine.swiftdeps",
+    "diagnostics": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/AudioEngine.dia"
+  },
+  "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/Sources/VoiceInput/CapsuleView.swift": {
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/CapsuleView.swift.o",
+    "swiftmodule": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/CapsuleView~partial.swiftmodule",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/CapsuleView.swiftdeps",
+    "diagnostics": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/CapsuleView.dia"
+  },
+  "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/Sources/VoiceInput/FloatingWindowController.swift": {
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/FloatingWindowController.swift.o",
+    "swiftmodule": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/FloatingWindowController~partial.swiftmodule",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/FloatingWindowController.swiftdeps",
+    "diagnostics": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/FloatingWindowController.dia"
+  },
+  "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/Sources/VoiceInput/InputMethodSwitcher.swift": {
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/InputMethodSwitcher.swift.o",
+    "swiftmodule": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/InputMethodSwitcher~partial.swiftmodule",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/InputMethodSwitcher.swiftdeps",
+    "diagnostics": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/InputMethodSwitcher.dia"
+  },
+  "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/Sources/VoiceInput/InputMonitor.swift": {
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/InputMonitor.swift.o",
+    "swiftmodule": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/InputMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/InputMonitor.swiftdeps",
+    "diagnostics": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/InputMonitor.dia"
+  },
+  "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/Sources/VoiceInput/LLMRefiner.swift": {
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/LLMRefiner.swift.o",
+    "swiftmodule": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/LLMRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/LLMRefiner.swiftdeps",
+    "diagnostics": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/LLMRefiner.dia"
+  },
+  "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/Sources/VoiceInput/SettingsWindowController.swift": {
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/SettingsWindowController.swift.o",
+    "swiftmodule": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/SettingsWindowController~partial.swiftmodule",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/SettingsWindowController.swiftdeps",
+    "diagnostics": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/SettingsWindowController.dia"
+  },
+  "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/Sources/VoiceInput/SpeechRecognizer.swift": {
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/SpeechRecognizer.swift.o",
+    "swiftmodule": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/SpeechRecognizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/SpeechRecognizer.swiftdeps",
+    "diagnostics": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/SpeechRecognizer.dia"
+  },
+  "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/Sources/VoiceInput/main.swift": {
+    "object": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/main.swift.o",
+    "swiftmodule": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/main.swiftdeps",
+    "diagnostics": "/Users/lin.c.zhu/Documents/GitHub/voice-input-src/.build/arm64-apple-macosx/release/VoiceInput.build/main.dia"
+  }
+}
